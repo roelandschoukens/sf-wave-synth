@@ -1,0 +1,13 @@
+// PC speaker
+// By Roeland
+<global>
+ampeg_release=0.005
+<group>
+volume=0.62
+fil_type=lpf_2p
+cutoff=3100
+resonance=2
+fil2_type=hpf_2p
+cutoff2=1000
+<region>
+sample=*square lokey=26 hikey=120

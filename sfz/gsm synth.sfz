@@ -1,0 +1,14 @@
+// GSM ringtone
+// By Roeland
+<global>
+ampeg_release=0.005
+<group>
+fil_type=lpf_2p
+cutoff=3800
+resonance=18
+fil2_type=hpf_2p
+cutoff2=3700
+resonance2=0
+volume=0.45
+<region>
+sample=*saw lokey=55 hikey=108
