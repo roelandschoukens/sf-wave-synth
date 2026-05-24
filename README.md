@@ -4,7 +4,7 @@
  - [🔊 GSM monophonic ringtone](https://raw.githubusercontent.com/roelandschoukens/sf-wave-synth/refs/heads/main/sf2/gsm.sf2)
  - [🔊 PC speaker](https://raw.githubusercontent.com/roelandschoukens/sf-wave-synth/refs/heads/main/sf2/pc-speaker.sf2)
 
-<small>(sound fonts released under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">)</small>
+<small>(sound fonts released under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="12" width="12">&nbsp;<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="12" width="12">&nbsp;<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="12" width="12">)</small>
 
 ---------------------------
 
