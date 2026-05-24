@@ -1,5 +1,13 @@
 # SFZ soundfont synthesizer
 
+**💾 Get the old school sound fonts here:**
+ - [🔊 GSM monophonic ringtone](https://raw.githubusercontent.com/roelandschoukens/sf-wave-synth/refs/heads/main/sf2/gsm.sf2)
+ - [🔊 PC speaker](https://raw.githubusercontent.com/roelandschoukens/sf-wave-synth/refs/heads/main/sf2/pc-speaker.sf2)
+
+<small>(sound fonts released under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">)</small>
+
+---------------------------
+
 This program creates a SFZ soundfont starting from a simple waveform and filters.
 This is how I made my [GSM](doc/gsm.md) sound font.
 
